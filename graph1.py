@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.arange(1,6)
+y = np.arange(2,11,2)
+
+fig = plt.figure()
+
+plt.show()
